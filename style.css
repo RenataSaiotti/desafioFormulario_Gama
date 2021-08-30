@@ -1,0 +1,35 @@
+
+body {text-align:center;font-family:Open Sans, sans-serif;background-color: rgb(202, 199, 199);margin: 0;padding:0;}
+
+.container-principal{font-family: Open Sans, sans-serif; background-color: rgb(138, 16, 32);}
+
+/* definir as propriedades do topo*/
+header{width: 50%; heigth:auto; position:relative; top: auto;}
+
+/* definir as propriedades do logo*/
+.logo{position: relative; width: auto;}
+.logo{width: 100%; margin-left: 50%;float: center}
+
+/*definir as propriedades de titulo */
+#inicio{text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif ;color: rgb(59, 61, 55); background-color:;}
+#cadastro{text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif ;color:rgb(59, 61, 55);background-color:}
+#contato{text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif ;color: rgb(170, 100, 100);}
+
+/*definir as propriedades da imagem de titulo */
+.img-titulo img{width: 33%; margin-left: auto; margin-top:auto;position: relative; float: left}
+
+/* definir as propriedades do formulário */ 
+#form form {margin: 0 auto;width:30%; height: 10%;position: relative; float: right; text-align:left; top: 5%; min-height: 400px;background-color: rgb(138, 16, 32);color: #fff;padding: 2%; top: 5%;}
+
+#form form label {font-weight: bold;}
+
+#form form input {max-width: 100%; width: 99%; height: 30px; margin-top: 10px; margin-bottom: 15px; padding-left: 1%;}
+
+#form form button {width: auto; height: auto; cursor: pointer; background-color: rgb(247, 181, 39); color: rgb(8, 8, 8); font-size: 1.5em; padding: 10px; margin-left: 35%; margin-top: 1%;}
+
+/* definir as propriedades do contato */
+
+#conta-data{ width: auto;position: relative; float: left;padding: 5%; background-color: rgb(138, 16, 32); color: #fff;top: 1%;height:400px;text-align: center;} 
+#conta-data .h4{ color: #fff;text-align: center;} 
+#conta-data .h5{ margin-top: 2%;margin-bottom: 1%; vertical-align: auto;} 
+#conta-data img{width: 70px;}
